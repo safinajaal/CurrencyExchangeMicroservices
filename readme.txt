@@ -1,0 +1,1 @@
+Проект для курса C:\Users\lolid\Documents\Programming\Java\_Learning\@openit1 Микросервисы и API на Java и Kotlin (2022)
