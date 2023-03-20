@@ -1,1 +1,1 @@
-Проект для курса C:\Users\lolid\Documents\Programming\Java\_Learning\@openit1 Микросервисы и API на Java и Kotlin (2022)
+Приложение для обмена валюты, состоящий из микросервисов. Java, Kotlin, Kafka, Docker, SpringBoot, SpringCloud, PostgreSQL, DockerCompose.
